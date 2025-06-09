@@ -6,6 +6,8 @@ Here you'll find a collection of practical notebooks that demonstrate my skills 
 
 ## 🔍 Featured Projects
 
+Note: If needed, you can always find the datasets used in these notebooks inside the Datasets folder within this repository.
+
 ### 💳 Credit Default Risk Model Tuning (GridSearchCV)  
 A financial classification project using the Taiwan Credit Default dataset. Compares Logistic Regression, KNN, and Random Forest with cross-validation, ROC AUC scoring, and SHAP explainability.
 
