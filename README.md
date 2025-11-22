@@ -1,12 +1,19 @@
 # 📘 Jupyter Notebook Projects
 
-Here you'll find a collection of practical notebooks that demonstrate my skills in Data Analysis, model building, and real-world applications.
+Here you'll find a collection of practical notebooks that demonstrate my skills in Data Science, Data Analysis, model building, and real-world applications.
 
 ---
 
 ## 🔍 Featured Projects
 
 Note: If needed, you can always find the datasets used in these notebooks inside the Datasets folder within this repository.
+
+### 💳 Transfer Learning with BERT for Text Classification in the FinTech Industry  
+A Deep Learning NLP project using transfer learning with BERT base to classify financial support messages as fraud related or normal. The model is fine tuned on a synthetic FinTech dataset with frozen transformer layers for efficiency. The notebook includes full evaluation (F1, AUC, confusion matrix), t SNE embedding visualization, LIME interpretability, and an interactive Gradio interface for real time prediction testing.
+
+[▶️ View on Google Colab](https://colab.research.google.com/drive/1dL1qlx_0M-kJjXGolLtQTEyTGh4_9TgH?usp=sharing)
+
+---
 
 ### 💳 Credit Default Risk Model Tuning (GridSearchCV)  
 A financial classification project using the Taiwan Credit Default dataset. Compares Logistic Regression, KNN, and Random Forest with cross-validation, ROC AUC scoring, and SHAP explainability.
