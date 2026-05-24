@@ -20,7 +20,9 @@ A Deep Learning NLP project using transfer learning with BERT base to classify f
 ### 💳 Credit Default Risk Model Tuning (GridSearchCV)  
 A financial classification project using the Taiwan Credit Default dataset. Compares Logistic Regression, KNN, and Random Forest with cross-validation, ROC AUC scoring, and SHAP explainability.
 
-[▶️ View on Google Colab](https://colab.research.google.com/drive/1kGoEEBx1rLRYBZn48ssUs0XPN24dm8IN?usp=sharing)
+[▶️ View on Google Colab](https://colab.research.google.com/drive/1wJXDef5nr5AKgjoDQSdjPvj1S3Cc38uX?usp=sharing)
+
+[🤗 Live Demo](https://huggingface.co/spaces/Augustordiaz/credit-card-default)
 
 ---
 
