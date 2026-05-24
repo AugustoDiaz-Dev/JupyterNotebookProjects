@@ -14,8 +14,9 @@ A Deep Learning NLP project using transfer learning with BERT base to classify f
 [▶️ View on Google Colab](https://colab.research.google.com/drive/1Mohb44AAkX-taflw6DZJLwlXcfqEtpki?usp=sharing) 
  
 <a href="https://huggingface.co/spaces/Augustordiaz/bert-based-fintech-fraud-text-classifier" target="_blank" rel="noopener noreferrer">
-🚀 Live Demo
+🤗 Live Demo
 </a>
+
 ---
 
 ### 💳 Credit Default Risk Model Tuning (GridSearchCV)  
