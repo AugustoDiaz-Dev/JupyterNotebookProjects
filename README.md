@@ -12,6 +12,7 @@ Note: If needed, you can always find the datasets used in these notebooks inside
 A Deep Learning NLP project using transfer learning with BERT base to classify financial support messages as fraud related or normal. The model is fine tuned on a synthetic FinTech dataset with frozen transformer layers for efficiency. The notebook includes full evaluation (F1, AUC, confusion matrix), t SNE embedding visualization, LIME interpretability, and an interactive Gradio interface for real time prediction testing.
 
 [▶️ View on Google Colab](https://colab.research.google.com/drive/1Mohb44AAkX-taflw6DZJLwlXcfqEtpki?usp=sharing)
+[🤗 Live Demo] (https://huggingface.co/spaces/Augustordiaz/bert-based-fintech-fraud-text-classifier)
 
 ---
 
